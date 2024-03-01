@@ -41,7 +41,7 @@ git clone https://github.com/BTC415/Ecommerce-Nextjs-Nestjs.git
 Go to the project directory
 
 ```bash
-cd modern-ecommerce
+cd Ecommerce-Nextjs-Nestjs
 ```
 
 Remove remote origin
