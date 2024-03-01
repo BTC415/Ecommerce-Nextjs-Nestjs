@@ -4,7 +4,7 @@
 
 ## The Challenge ⚡️
 
-I wanted to build another eCommerce website using newer technologies than my [previous eCommerce project](https://github.com/NightClover-code/basic-eCommerce-website), where I used `Firebase` to store data and `Redux` for state management.
+I wanted to build another eCommerce website using newer technologies than my [previous eCommerce project](https://github.com/BTC415/Ecommerce-Firebase.git), where I used `Firebase` to store data and `Redux` for state management.
 
 I went with a `client-server` approach, and this time I mixed two frameworks for the first time, which were `Next.js` and `Nest.js`.
 
@@ -34,7 +34,8 @@ Here was the challenge:
 Clone the project
 
 ```bash
-git clone https://github.com/NightClover-code/modern-ecommerce.git
+git clone https://github.com/BTC415/Ecommerce-Nextjs-Nestjs.git
+
 ```
 
 Go to the project directory
@@ -101,13 +102,5 @@ yarn dev
  - Client deployed on [Vercel](https://vercel.com/)
  - Server deployed on [Railway](https://railway.app/)
  
- 
-## Inspiration & credits ☄️
- - [@bradtraversy](https://www.youtube.com/@TraversyMedia) - Project Idea
- - [@satnaing](https://github.com/satnaing) - README format
-
-## Author
-- [@achrafdev](https://achrafdev.com)
-
 **Thanks for sharing** 🚀
 
